@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Raleway", sans-serif !important;
+  font-size: 1rem !important;
+  line-height: 1.6 !important;
+  background-color: #18191a !important;
+  color: #8f9095;
+}
